@@ -1,0 +1,26 @@
+.navbar {
+    margin-bottom: 20px;
+}
+.jumbotron {
+    background-color: #f8f9fa;
+    padding: 100px 0;
+    text-align: center;
+}
+.container .col-md-4 {
+    margin-bottom: 30px;
+}
+.card {
+    margin-top: 50px;
+    padding: 20px;
+}
+footer {
+    background-color: #343a40;
+    color: #fff;
+    padding: 20px 0;
+    margin-top: 50px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
